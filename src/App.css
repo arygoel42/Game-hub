@@ -1,0 +1,15 @@
+.pagination {
+  display: flex;
+  gap: 5px;
+}
+
+.pagination button {
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+.pagination .active {
+  font-weight: bold;
+  color: red;
+}
+
