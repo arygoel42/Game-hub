@@ -1,6 +1,6 @@
 
 About: 
-basic Game-hub application inspired from Mosh Hamedani courses on React
+Game-hub application inspired from Mosh Hamedani courses on React
 Allows users to browse and search games and view each game in detail 
 Users can filter games based on Genre, platform, and sort features
 
